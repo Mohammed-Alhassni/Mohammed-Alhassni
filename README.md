@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Mohammed Alhassni 👋
 
-<!--
-**Mohammed-Alhassni/Mohammed-Alhassni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- Software / Application Developer
+- Interested in Web and Mobile Application Development
+- Focused on learning modern frameworks and backend systems
+- Enjoy working on academic and practical projects
 
-Here are some ideas to get you started:
+### Skills
+- Programming: Java, Python, JavaScript, C#, SQL
+- Web: HTML, CSS, React, Spring Boot
+- Backend: ASP.NET, Firebase, Spring Boot
+- Mobile: React Native, Java (Native Android)
+- Tools: GitHub, Visual Studio, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Academic and personal development projects
+- Improving full-stack development skills
+- Learning system design, testing, and documentation
+
+### Profiles & Contact
+- GitHub: https://github.com/Mohammed-Alhassni
+- LinkedIn: https://www.linkedin.com/in/mohammed-al-hassni-38a84b2b1
