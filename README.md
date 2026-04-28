@@ -14,7 +14,7 @@
 - Tools: GitHub, Visual Studio, VS Code
 
 ### What I'm Working On
-- Academic and personal development projects
+- Personal development projects
 - Improving full-stack development skills
 - Learning system design, testing, and documentation
 
