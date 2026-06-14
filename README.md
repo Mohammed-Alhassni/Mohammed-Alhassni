@@ -9,7 +9,7 @@
 ### Skills
 - Programming: Java, Python, JavaScript, C#, SQL
 - Web: HTML, CSS, React, Spring Boot
-- Backend: ASP.NET, Firebase, Spring Boot
+- Backend: .NET, Firebase, Spring Boot
 - Mobile: React Native, Java (Native Android)
 - Tools: GitHub, Visual Studio, VS Code
 
